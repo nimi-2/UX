@@ -20,3 +20,7 @@ Mobile:
 ```
 https://www.figma.com/proto/MjeZ3THMGYqwOSBfBrD6lI/Electronic-guardian?node-id=0-1&t=VzlF0rSn5TcFUB6F-1
 ```
+Website
+```
+https://www.figma.com/proto/QHOPlTngTX2ORPYgLmuryD/Untitled?node-id=0-1&t=TAPJ19zEDHCmHNCx-1
+```
