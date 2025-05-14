@@ -14,3 +14,9 @@ Website:
 ```
 https://www.figma.com/proto/0HtsEmsGo20FKabFUKRApY/Flower-garden?node-id=22-324&t=M1jyOztCoW5X7fwE-1
 ```
+Design of Electronic Guardian
+#
+Mobile:
+```
+https://www.figma.com/proto/MjeZ3THMGYqwOSBfBrD6lI/Electronic-guardian?node-id=0-1&t=VzlF0rSn5TcFUB6F-1
+```
