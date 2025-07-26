@@ -24,3 +24,7 @@ Website
 ```
 https://www.figma.com/proto/QHOPlTngTX2ORPYgLmuryD/Untitled?node-id=0-1&t=TAPJ19zEDHCmHNCx-1
 ```
+Pages in Canva:
+```
+https://www.canva.com/design/DAGuA1M-KvU/teTz57p4UHe5HE1ZknfZZQ/view?utm_content=DAGuA1M-KvU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa06c4626c
+```
