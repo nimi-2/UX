@@ -26,6 +26,11 @@ Website
 ```
 https://www.figma.com/proto/QHOPlTngTX2ORPYgLmuryD/Untitled?node-id=0-1&t=TAPJ19zEDHCmHNCx-1
 ```
+Bieszczady page
+```
+https://www.figma.com/proto/JKtWafZeraU6uWLXskFub8/Vacation?node-id=1-2&t=punRBP14FBsDN55r-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+```
+
 ### Canva
 
 Ferrari F1 page
