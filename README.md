@@ -1,5 +1,7 @@
 # UX
 
+### Figma
+
 Desing of aplication to travel
 ```
 www.figma.com/proto/8HFFRu1CEx2ew6vepbKviN/Untitled?node-id=3-210&t=bpFx8ZlZhHpcaviM-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
@@ -24,7 +26,9 @@ Website
 ```
 https://www.figma.com/proto/QHOPlTngTX2ORPYgLmuryD/Untitled?node-id=0-1&t=TAPJ19zEDHCmHNCx-1
 ```
-Pages in Canva:
+### Canva
+
+Ferrari F1 page
 ```
 https://www.canva.com/design/DAGuA1M-KvU/teTz57p4UHe5HE1ZknfZZQ/view?utm_content=DAGuA1M-KvU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa06c4626c
 ```
