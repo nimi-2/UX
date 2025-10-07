@@ -30,6 +30,11 @@ Bieszczady page
 ```
 https://www.figma.com/proto/JKtWafZeraU6uWLXskFub8/Vacation?node-id=1-2&t=punRBP14FBsDN55r-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 ```
+Art class
+Task made for intership in ARFA
+```
+https://www.figma.com/proto/pqWzAcvDNaLvok0LkpUQh2/Untitled?node-id=0-1&t=nlvwjQ4HwZGn70yC-1
+```
 
 ### Canva
 
